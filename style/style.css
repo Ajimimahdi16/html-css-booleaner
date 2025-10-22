@@ -1,0 +1,65 @@
+    #main-header{
+         height: 115px;
+         background-color: #4ea0ff;
+         background-image: url(../img/pattern.png);
+         background-size: 40%;
+         
+    
+    }
+    
+/*logo boolearner*/
+
+   .logo{
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+/*primo titolo*/
+    h1{
+    font-size: 40px;
+    margin-bottom: 0;
+   }
+    
+   address{
+        font-style: normal;
+         font-size: 18px;
+    }
+   
+   .text-gray{
+    color: gray;
+}
+   a{
+    color: #7dcaee;
+    
+   }
+
+   /*immagini di tim berners lee*/
+   .main-figure{
+    margin: 20px 0;
+   }
+   .text-small{
+    font-size: 12px;
+   }
+
+   /*tabella*/
+   th{
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;
+   }
+   tr{
+    background-color: #b1e5f2;
+   }
+   .bg-white{
+    background-color: white;
+   }
+
+   /*footer*/
+
+   
+    
+
+
+   
+  
+   
