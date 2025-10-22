@@ -59,9 +59,32 @@
    .bg-white{
     background-color: white;
    }
+   .table-prova{
+    width: 100%;
+   }
 
    /*footer*/
+.article-monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 180px;
+    width: 240px;
+}
+.titolo-monitor{
+    color: white;
+    font-size: 22px;
+    margin-top: 10px;
+}
 
+.article-coding{
+    background-image: url(../img/graph.jpg);
+    height: 180px;
+    width: 240px;
+}
+.titolo-coding{
+    color: white;
+    font-size: 22px;
+    margin-top: 10px;
+}
    
     
 
