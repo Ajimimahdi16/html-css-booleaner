@@ -8,7 +8,7 @@
          height: 115px;
          background-color: #4ea0ff;
          background-image: url(../img/pattern.png);
-         background-size: 40%;
+         background-size: 21%;
          
     
     }
@@ -19,6 +19,7 @@
     height: 50px;
     width: auto;
     margin-top: 25px;
+    margin-left: 700px;
 }
 /*primo titolo*/
     h1{
@@ -61,8 +62,9 @@
    }
    .table-prova{
     width: 100%;
+    border-spacing: 0;
    }
-
+   
    /*footer*/
 .article-monitor{
     background-image: url(../img/monitor.jpg);
